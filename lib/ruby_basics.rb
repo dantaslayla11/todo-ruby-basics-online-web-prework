@@ -12,7 +12,7 @@ def argue
 end
 
 def greeting
-
+ greeting = "Hi there, "
 end
 
 def return_a_value
