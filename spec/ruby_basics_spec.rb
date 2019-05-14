@@ -9,7 +9,7 @@ describe "ruby" do
       num1 = 42
       num2 = 7
 
-      expect(division("num1","num2")).to eq(6)
+      expect(division(num1.to_i,num2.to_i)).to eq(6)
     end
   end
 
