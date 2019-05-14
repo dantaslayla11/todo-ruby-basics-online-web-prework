@@ -4,19 +4,19 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  value = "Bob"
+  puts = "Bob"
 end
 
 def argue
-  argue = (phrase)
+  puts = (phrase)
 end
 
 def greeting
- greeting = "Hi there, "
+ puts = "Hi there, "
 end
 
 def return_a_value
- return_a_value = "Nice"
+ puts = "Nice"
 end
 
 def last_evaluated_value
