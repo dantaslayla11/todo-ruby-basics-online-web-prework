@@ -11,7 +11,7 @@ def argue
   puts = "I'm right and you are wrong!"
 end
 
-def greeting
+def (greeting, name)
  puts = "Hi there, "
  puts = "Bobby!"
 end
