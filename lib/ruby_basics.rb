@@ -16,11 +16,11 @@ def greeting
 end
 
 def return_a_value
- return_a_value = "nice"
+ return_a_value = "Nice"
 end
 
 def last_evaluated_value
-
+last_evaluated_value = "Expert"
 end
 
 def pizza_party
